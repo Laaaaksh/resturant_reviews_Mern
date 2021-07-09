@@ -1,0 +1,13 @@
+mongo atlas as the database
+we have node js and express as the web framework - backend
+we have node and react as the - frontend
+in the end we have the client side
+we don't need to have backend on the server but can have it server less
+
+// in mongo db we have different terms
+// database - database
+table - collection
+row - document
+index - index
+join - $lookup
+foreignkey -reference
